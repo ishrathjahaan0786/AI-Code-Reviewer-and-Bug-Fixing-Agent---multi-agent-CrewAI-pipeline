@@ -2,8 +2,8 @@
 
 A multi-agent code review system that combines **real static analysis tools**, **LLM-based reasoning**, and **sandboxed fix verification** — built for the Generative AI Developer Intern Build Sprint.
 
-🔗 **Live Demo:** [your-app.streamlit.app](https://ai-code-reviewer-and-bug-fixing-agent---multi-agent-crewai-pip.streamlit.app)
-🎥 **Demo Video:** [link here]
+🔗 **Live Demo:** (https://ai-code-reviewer-and-bug-fixing-agent---multi-agent-crewai-pip.streamlit.app)
+🎥 **Demo Video:** https://www.loom.com/share/90c0e36efc30433e82b8646fb3268301
 
 ---
 
