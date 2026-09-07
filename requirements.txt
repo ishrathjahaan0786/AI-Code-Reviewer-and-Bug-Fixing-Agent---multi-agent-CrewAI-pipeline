@@ -4,3 +4,4 @@ streamlit>=1.35
 pylint>=3.0
 bandit>=1.7
 python-dotenv>=1.0
+setuptools
